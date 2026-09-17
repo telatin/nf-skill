@@ -1,5 +1,7 @@
 # nf-skill
 
+![nf-skill](assets/logo.svg)
+
 Agent skill for building lean Nextflow DSL2 pipelines. Creates custom pipelines with pipeline-local modules, avoiding nf-core scaffolding unless explicitly requested.
 
 ## Quick Start
